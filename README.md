@@ -17,4 +17,3 @@ This plugin runs `register_taxonomy('category', array());` during the `init` act
 ## Acknowledgements
 
 This plugin sumply plugin-ises standard WordPress code circulating online - in this specific case, that [posted by @Marc to StackExchange](https://wordpress.stackexchange.com/questions/110782/remove-categories-tags-from-admin-menu/236211#236211).
-

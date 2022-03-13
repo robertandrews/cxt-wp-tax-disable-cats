@@ -3,6 +3,7 @@
 Plugin Name:    Context Taxonomy Disable Categories
 Description:    Don't use default Categories taxonomy.
 Text-Domain:    cxt-tax-disable-cats
+Version:        1.1
 Author:         Robert Andrews
 Author URI:     http://www.robertandrews.co.uk
 License:        GPL v2 or later
